@@ -8,7 +8,7 @@ const WelcomeCard = ({ sign, onSign }) => (
     <p>
       Sign my page your way by clicking the button below.
       <br />
-      Cooldown has not been implemented as of yet, so this is operating on an honor based system so chill out.  
+      Cooldown has not been implemented as of yet, so this is operating on an honor based system, so chill out.  
       <br />
       <br />
       
