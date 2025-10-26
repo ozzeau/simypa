@@ -5,3 +5,7 @@ This is a web app built with React that lets users draw, caption, and save signa
 ## What It Does
 
 It’s basically a digital signature playground with some fancy features like multi-stroke drawing, outline detection, and real-time coordinate tracking. Not perfect, but it gets the job done.
+
+## Works Awful for Mobile Right Now
+
+Panning function conflicts with existing mobile panning behavior, rendering a significant portion of the application's features unusable. Will probably fix at some point later.
