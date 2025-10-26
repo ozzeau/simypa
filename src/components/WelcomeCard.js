@@ -12,7 +12,7 @@ const WelcomeCard = ({ sign, onSign }) => (
       <br />
       <br />
       
-      <a href="https://github.com/ozzeau/simypa" target="_blank" rel="noopener noreferrer"style={{ color: '#FFA500', textDecoration: 'underline' }}>How </a>it works
+      <a href="https://github.com/ozzeau/simypa" target="_blank" rel="noopener noreferrer"style={{ color: '#FFA500', textDecoration: 'underline' }}>How</a> it works
 
     </p>
     <CButton label={sign} onClick={onSign} />
